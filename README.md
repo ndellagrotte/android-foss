@@ -26,11 +26,19 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Fennec**](https://hg.mozilla.org/releases/mozilla-esr68) <sup>**[[F-Droid](https://f-droid.org/app/org.mozilla.fennec_fdroid)]**</sup>
     * [**🐐 Mull**](https://gitlab.com/divested-mobile/mull-fenix) <sup>**[[F-Droid](https://www.f-droid.org/app/us.spotco.fennec_dos)]**</sup>
 
-### • Community Clients
+### • Lemmy Clients
 
 * [**🐐 Voyager**](https://github.com/aeharding/voyager) <sup>**[[F-Droid](https://f-droid.org/app/app.vger.voyager)]**<sup>
 * [**Jerboa**](https://github.com/dessalines/jerboa) <sup>**[[F-Droid](https://www.f-droid.org/app/com.jerboa)]**</sup>
 * [**Eternity**](https://codeberg.org/Bazsalanszky/Eternity) <sup>**[[F-Droid](https://f-droid.org/app/eu.toldi.infinityforlemmy)]**</sup>
+
+
+### • RSS Readers
+
+* [**Feeder**](https://gitlab.com/spacecowboy/Feeder) <sup>**[[F-Droid](https://f-droid.org/app/com.nononsenseapps.feeder)]**</sup>
+* [**Nunti**](https://gitlab.com/ondrejfoltyn/nunti) <sup>**[[F-Droid](https://f-droid.org/app/com.nunti)]**</sup>
+* [**ReadYou**](https://github.com/Ashinch/ReadYou) <sup>**[[F-Droid](https://f-droid.org/app/me.ash.reader)]**</sup>
+
 
 ### • Email Clients
 
@@ -166,6 +174,38 @@ other
 * [**⚠️ Threema Libre**](https://github.com/threema-ch/threema-android) <sup>**[[F-Droid](https://f-droid.org/app/ch.threema.app.libre)]**</sup>
 * [**⚠️ Session F-Droid**](https://github.com/oxen-io/session-android) <sup>**[[F-Droid](https://www.f-droid.org/app/network.loki.messenger.fdroid)]**</sup>
 
+### • Music & Audio Player
+
+local player
+* [**Auxio**](https://github.com/OxygenCobalt/Auxio) <sup>**[[F-Droid](https://f-droid.org/app/org.oxycblt.auxio)]**</sup>
+* [**Phonograph Plus**](https://github.com/chr56/Phonograph_Plus) <sup>**[[F-Droid](https://f-droid.org/app/player.phonograph.plus)]**</sup>
+* [**Gramophone**](https://github.com/AkaneTan/Gramophone) <sup>**[[F-Droid](https://f-droid.org/app/org.akanework.gramophone)]**</sup>
+* [**Fossify Music Player**](https://github.com/FossifyOrg/Music-Player) <sup>**[[F-Droid](https://f-droid.org/app/org.fossify.musicplayer)]**</sup>
+* [**Metro**](https://github.com/MuntashirAkon/Metro) <sup>**[[F-Droid](https://f-droid.org/app/io.github.muntashirakon.Music)]**</sup>
+* [**Music Player GO**](https://github.com/enricocid/Music-Player-GO) <sup>**[[F-Droid](https://f-droid.org/app/com.iven.musicplayergo)]**</sup>
+* [**Vanilla Music**](https://vanilla-music.github.io/) <sup>**[[F-Droid](https://f-droid.org/app/ch.blinkenlights.android.vanilla)]**</sup>
+    * [**Cover Fetcher**](https://vanilla-music.github.io/) <sup>**[[F-Droid](https://f-droid.org/app/com.kanedias.vanilla.coverfetch)]**</sup>
+    * [**Headphone Detector**](https://vanilla-music.github.io/) <sup>**[[F-Droid](https://f-droid.org/app/ch.blinkenlights.android.vanillaplug)]**</sup>
+    * [**Lyric Search**](https://vanilla-music.github.io/) <sup>**[[F-Droid](https://f-droid.org/app/com.kanedias.vanilla.lyrics)]**</sup>
+    * [**Tag Editor**](https://vanilla-music.github.io/) <sup>**[[F-Droid](https://f-droid.org/app/com.kanedias.vanilla.audiotag)]**</sup>
+
+youtube music frontend
+* [**⚠️ Harmony Music**](https://github.com/anandnet/Harmony-Music) <sup>**[[F-Droid](https://f-droid.org/app/com.anandnet.harmonymusic)]**</sup>
+* [**⚠️ InnerTune**](https://github.com/z-huang/InnerTune) <sup>**[[F-Droid](https://f-droid.org/app/com.zionhuang.music)]**</sup>
+* [**⚠️ Musify**](https://github.com/gokadzev/Musify) <sup>**[[F-Droid](https://f-droid.org/app/com.gokadzev.musify.fdroid)]**</sup>
+* [**⚠️ SimpMusic**](https://github.com/maxrave-dev/SimpMusic) <sup>**[[F-Droid](https://f-droid.org/app/com.maxrave.simpmusic)]**</sup>
+* [**⚠️ SongTube**](https://github.com/SongTube/SongTube-App)
+* [**⚠️ Spotube**](https://github.com/KRTirtho/spotube) <sup>**[[F-Droid](https://f-droid.org/app/oss.krtirtho.spotube)]**</sup>
+* [**⚠️ Vibe You**](https://github.com/you-apps/VibeYou) <sup>**[[F-Droid](https://f-droid.org/app/app.suhasdissa.vibeyou)]**</sup>
+
+radio
+* [**RadioDroid**](https://github.com/segler-alex/RadioDroid) <sup>**[[F-Droid](https://f-droid.org/app/net.programmierecke.radiodroid2)]**</sup>
+* [**Transistor**](https://codeberg.org/y20k/transistor) <sup>**[[F-Droid](https://f-droid.org/app/org.y20k.transistor)]**</sup>
+
+deezer frontend
+* [**⚠️ Vinyl Music Player**](https://github.com/AdrienPoupa/VinylMusicPlayer) <sup>**[[F-Droid](https://f-droid.org/app/com.poupa.vinylmusicplayer)]**</sup>
+
+
 ## Table of Contents
 
 * [App Store](#-app-store-)
@@ -293,37 +333,6 @@ other
 * [**Practice Suite**](https://codeberg.org/Berker/practice_suite) <sup>**[[F-Droid](https://www.f-droid.org/app/com.berkersen.practicesuite)]**</sup>
 * [**Tuner**](https://github.com/thetwom/Tuner) <sup>**[[F-Droid](https://www.f-droid.org/app/de.moekadu.tuner)]**</sup>
 
-### • Music & Audio Player
-
-* [**Auxio**](https://github.com/OxygenCobalt/Auxio) <sup>**[[F-Droid](https://f-droid.org/app/org.oxycblt.auxio)]**</sup>
-* [**BlackHole**](https://github.com/Sangwan5688/BlackHole) <sup>**[[F-Droid](https://f-droid.org/app/com.shadow.blackhole)]**</sup>
-* [**Dialog Music Player**](https://github.com/VishnuSanal/DialogMusicPlayer) <sup>**[[F-Droid](https://f-droid.org/app/phone.vishnu.dialogmusicplayer)]**</sup>
-* [**Fossify Music Player**](https://github.com/FossifyOrg/Music-Player) <sup>**[[F-Droid](https://f-droid.org/app/org.fossify.musicplayer)]**</sup>
-* [**Gramophone**](https://github.com/AkaneTan/Gramophone) <sup>**[[F-Droid](https://f-droid.org/app/org.akanework.gramophone)]**</sup>
-* [**Harmony Music**](https://github.com/anandnet/Harmony-Music) <sup>**[[F-Droid](https://f-droid.org/app/com.anandnet.harmonymusic)]**</sup>
-* [**InnerTune**](https://github.com/z-huang/InnerTune) <sup>**[[F-Droid](https://f-droid.org/app/com.zionhuang.music)]**</sup>
-* [**little music player**](https://github.com/martinmimigames/little-music-player) <sup>**[[F-Droid](https://www.f-droid.org/app/com.martinmimigames.littlemusicplayer)]**</sup>
-* [**Metro**](https://github.com/MuntashirAkon/Metro) <sup>**[[F-Droid](https://f-droid.org/app/io.github.muntashirakon.Music)]**</sup>
-* [**Music Player GO**](https://github.com/enricocid/Music-Player-GO) <sup>**[[F-Droid](https://f-droid.org/app/com.iven.musicplayergo)]**</sup>
-* [**Musify**](https://github.com/gokadzev/Musify) <sup>**[[F-Droid](https://f-droid.org/app/com.gokadzev.musify.fdroid)]**</sup>
-* [**Odeon**](https://github.com/thibseisel/android-odeon) <sup>**[[F-Droid](https://f-droid.org/app/fr.nihilus.music)]**</sup>
-* [**Odyssey**](https://github.com/gateship-one/odyssey) <sup>**[[F-Droid](https://f-droid.org/app/org.gateshipone.odyssey)]**</sup>
-* [**phiola**](https://github.com/stsaz/phiola) <sup>**[[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.github.stsaz.phiola)]**</sup>
-* [**Phonograph Plus**](https://github.com/chr56/Phonograph_Plus) <sup>**[[F-Droid](https://f-droid.org/app/player.phonograph.plus)]**</sup>
-* [**raag**](https://github.com/raag-music/raag) <sup>**[[F-Droid](https://f-droid.org/app/in.amfoss.raag)]**</sup>
-* [**RadioDroid**](https://github.com/segler-alex/RadioDroid) <sup>**[[F-Droid](https://f-droid.org/app/net.programmierecke.radiodroid2)]**</sup>
-* [**SimpMusic**](https://github.com/maxrave-dev/SimpMusic) <sup>**[[F-Droid](https://f-droid.org/app/com.maxrave.simpmusic)]**</sup>
-* [**SongTube**](https://github.com/SongTube/SongTube-App)
-* [**Spotube**](https://github.com/KRTirtho/spotube) <sup>**[[F-Droid](https://f-droid.org/app/oss.krtirtho.spotube)]**</sup>
-* [**Transistor**](https://codeberg.org/y20k/transistor) <sup>**[[F-Droid](https://f-droid.org/app/org.y20k.transistor)]**</sup>
-* [**Vanilla Music**](https://vanilla-music.github.io/) <sup>**[[F-Droid](https://f-droid.org/app/ch.blinkenlights.android.vanilla)]**</sup>
-    * [**Cover Fetcher**](https://vanilla-music.github.io/) <sup>**[[F-Droid](https://f-droid.org/app/com.kanedias.vanilla.coverfetch)]**</sup>
-    * [**Headphone Detector**](https://vanilla-music.github.io/) <sup>**[[F-Droid](https://f-droid.org/app/ch.blinkenlights.android.vanillaplug)]**</sup>
-    * [**Lyric Search**](https://vanilla-music.github.io/) <sup>**[[F-Droid](https://f-droid.org/app/com.kanedias.vanilla.lyrics)]**</sup>
-    * [**Tag Editor**](https://vanilla-music.github.io/) <sup>**[[F-Droid](https://f-droid.org/app/com.kanedias.vanilla.audiotag)]**</sup>
-* [**Vibe You**](https://github.com/you-apps/VibeYou) <sup>**[[F-Droid](https://f-droid.org/app/app.suhasdissa.vibeyou)]**</sup>
-* [**ViMusic**](https://github.com/vfsfitvnm/ViMusic) <sup>**[[F-Droid](https://www.f-droid.org/app/it.vfsfitvnm.vimusic)]**</sup>
-* [**Vinyl Music Player**](https://github.com/AdrienPoupa/VinylMusicPlayer) <sup>**[[F-Droid](https://f-droid.org/app/com.poupa.vinylmusicplayer)]**</sup>
 
 ### • Notes
 
@@ -384,17 +393,6 @@ other
 
 * [**Godot Editor**](https://github.com/godotengine/godot) <sup>**[[F-Droid](https://f-droid.org/app/org.godotengine.editor.v3)]**</sup>
 * [**PCAPdroid**](https://github.com/emanuele-f/PCAPdroid) <sup>**[[F-Droid](https://f-droid.org/app/com.emanuelef.remote_capture)]**</sup>
-
-### • RSS Readers
-
-* [**Aggregator**](https://github.com/tughi/aggregator-android) <sup>**[[F-Droid](https://f-droid.org/app/com.tughi.aggregator)]**</sup>
-* [**Feeder**](https://gitlab.com/spacecowboy/Feeder) <sup>**[[F-Droid](https://f-droid.org/app/com.nononsenseapps.feeder)]**</sup>
-* [**HandyNewsReader**](https://github.com/yanus171/Handy-News-Reader) <sup>**[[F-Droid](https://f-droid.org/app/ru.yanus171.feedexfork)]**</sup>
-* [**NewsBlur**](https://github.com/samuelclay/NewsBlur) <sup>**[[F-Droid](https://f-droid.org/app/com.newsblur)]**</sup>
-* [**Nunti**](https://gitlab.com/ondrejfoltyn/nunti) <sup>**[[F-Droid](https://f-droid.org/app/com.nunti)]**</sup>
-* [**ReadYou**](https://github.com/Ashinch/ReadYou) <sup>**[[F-Droid](https://f-droid.org/app/me.ash.reader)]**</sup>
-* [**ReaDrops**](https://github.com/readrops/Readrops) <sup>**[[F-Droid](https://f-droid.org/app/com.readrops.app)]**</sup>
-* [**Thud**](https://github.com/aerotoad/Thud) <sup>**[[F-Droid](https://f-droid.org/app/com.aerotoad.thud)]**</sup>
 
 ### • Sandboxing
 
