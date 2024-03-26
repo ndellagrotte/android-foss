@@ -109,6 +109,61 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Simple Keyboard**](https://github.com/rkkr/simple-keyboard) <sup>**[[F-Droid](https://f-droid.org/app/rkr.simplekeyboard.inputmethod)]**</sup>
 * [**Thumb-Key**](https://github.com/dessalines/thumb-key) <sup>**[[F-Droid](https://www.f-droid.org/app/com.dessalines.thumbkey)]**</sup>
 
+### • Media Frontends
+
+general media frontend
+* [**Jellyfin**](https://github.com/jellyfin/jellyfin-android) <sup>**[[F-Droid](https://f-droid.org/app/org.jellyfin.mobile)]**</sup>
+
+youtube 
+* [**⚠️🐐 LibreTube**](https://github.com/libre-tube/LibreTube) <sup>**[[F-Droid](https://f-droid.org/app/com.github.libretube)]**</sup>
+* [**⚠️Clipious**](https://github.com/lamarios/clipious) <sup>**[[F-Droid](https://f-droid.org/app/com.github.lamarios.clipious)]**</sup>
+* [**⚠️NewPipe**](https://github.com/TeamNewPipe/NewPipe) <sup>**[[F-Droid](https://f-droid.org/app/org.schabi.newpipe)]**</sup>
+    * [**⚠️ PipePipe**](https://codeberg.org/NullPointerException/PipePipe) <sup>**[[F-Droid](https://www.f-droid.org/app/InfinityLoop1309.NewPipeEnhanced)]**</sup>
+    * [**⚠️ Tubular**](https://github.com/polymorphicshade/Tubular)
+* [**⚠️ SkyTube**](https://github.com/ram-on/SkyTube) <sup>**[[F-Droid](https://f-droid.org/app/free.rm.skytube.oss)]**</sup>
+
+twitch
+* [**⚠️🐐 Twire**](https://github.com/twireapp/Twire) <sup>**[[F-Droid](https://f-droid.org/app/com.perflyst.twire)]**</sup>
+* [**⚠️ Xtra**](https://github.com/crackededed/Xtra) <sup>**[[F-Droid](https://www.f-droid.org/app/com.github.andreyasadchy.xtra)]**</sup>
+
+### • Messaging
+
+xmpp
+* [**Cheogram**](https://git.singpolyma.net/cheogram-android) <sup>**[[F-Droid](https://www.f-droid.org/app/com.cheogram.android)]**</sup>
+* [**Conversations**](https://github.com/siacs/Conversations) <sup>**[[F-Droid](https://f-droid.org/app/eu.siacs.conversations)]**</sup>
+
+matrix
+* [**⚠️ Element**](https://github.com/vector-im/element-android) <sup>**[[F-Droid](https://f-droid.org/app/im.vector.app)]**</sup>
+    * [**🐐 SchildiChat**](https://github.com/SchildiChat/SchildiChat-android) <sup>**[[F-Droid](https://f-droid.org/app/de.spiritcroc.riotx)]**</sup>
+* [**FluffyChat**](https://github.com/krille-chan/fluffychat) <sup>**[[F-Droid](https://f-droid.org/app/chat.fluffy.fluffychat)]**</sup>
+
+mastodon
+* [**⚠️ Mastodon**](https://github.com/mastodon/mastodon-android) <sup>**[[F-Droid](https://f-droid.org/app/org.joinmastodon.android)]**</sup>
+    * [**Megalodon**](https://github.com/sk22/megalodon)
+    * [**Moshidon**](https://github.com/LucasGGamerM/moshidon) <sup>**[[F-Droid](https://f-droid.org/app/org.joinmastodon.android.moshinda)]**</sup>
+
+signal
+* [**Molly-FOSS**](https://github.com/mollyim/mollyim-android) <sup>**[[Add F-Droid Repo](https://molly.im/download/fdroid/)]**</sup>
+* [**Signal-Foss**](https://github.com/tw-hx/Signal-Android)
+* [**⚠️ Molly**](https://github.com/mollyim/mollyim-android) <sup>**[[Add F-Droid Repo](https://molly.im/download/fdroid/)]**</sup>
+
+mumble
+* [**Mumla**](https://gitlab.com/quite/mumla) <sup>**[[F-Droid](https://www.f-droid.org/app/se.lublin.mumla)]**</sup>
+
+telegram
+* [**⚠️ Telegram-FOSS**](https://github.com/Telegram-FOSS-Team/Telegram-FOSS) <sup>**[[F-Droid](https://f-droid.org/app/org.telegram.messenger)]**</sup>
+    * [**⚠️ Forkgram**](https://github.com/Forkgram/TelegramAndroid) <sup>**[[F-Droid](https://f-droid.org/app/org.forkgram.messenger)]**</sup>
+    * [**⚠️ Nekogram X**](https://github.com/NekoX-Dev/NekoX) <sup>**[[F-Droid](https://f-droid.org/app/nekox.messenger)]**</sup>
+    * [**Telegram Monet**](https://github.com/mi-g-alex/Telegram-Monet)
+  
+other
+* [**Briar**](https://code.briarproject.org/briar/briar) <sup>**[[F-Droid](https://f-droid.org/app/org.briarproject.briar.android)]**</sup>
+* [**Jami**](https://git.jami.net/savoirfairelinux/jami-client-android) <sup>**[[F-Droid](https://f-droid.org/app/cx.ring)]**</sup>
+* [**Jitsi Meet**](https://github.com/jitsi/jitsi-meet) <sup>**[[F-Droid](https://f-droid.org/app/org.jitsi.meet)]**</sup>
+* [**Meshenger**](https://github.com/meshenger-app/meshenger-android) <sup>**[[F-Droid](https://f-droid.org/app/d.d.meshenger)]**</sup>
+* [**SimpleX Chat**](https://github.com/simplex-chat/simplex-chat) <sup>**[[F-Droid](https://www.f-droid.org/app/chat.simplex.app)]**</sup>
+* [**⚠️ Threema Libre**](https://github.com/threema-ch/threema-android) <sup>**[[F-Droid](https://f-droid.org/app/ch.threema.app.libre)]**</sup>
+* [**⚠️ Session F-Droid**](https://github.com/oxen-io/session-android) <sup>**[[F-Droid](https://www.f-droid.org/app/network.loki.messenger.fdroid)]**</sup>
 
 ## Table of Contents
 
@@ -194,48 +249,8 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 ------------------------
 
-### • Media Frontends
 
-* [**Clipious**](https://github.com/lamarios/clipious) <sup>**[[F-Droid](https://f-droid.org/app/com.github.lamarios.clipious)]**</sup>
-* [**Jellyfin**](https://github.com/jellyfin/jellyfin-android) <sup>**[[F-Droid](https://f-droid.org/app/org.jellyfin.mobile)]**</sup>
-* [**LibreTube**](https://github.com/libre-tube/LibreTube) <sup>**[[F-Droid](https://f-droid.org/app/com.github.libretube)]**</sup>
-* [**NewPipe**](https://github.com/TeamNewPipe/NewPipe) <sup>**[[F-Droid](https://f-droid.org/app/org.schabi.newpipe)]**</sup>
-    * [**PipePipe**](https://codeberg.org/NullPointerException/PipePipe) <sup>**[[F-Droid](https://www.f-droid.org/app/InfinityLoop1309.NewPipeEnhanced)]**</sup>
-    * [**Tubular**](https://github.com/polymorphicshade/Tubular)
-* [**SkyTube**](https://github.com/ram-on/SkyTube) <sup>**[[F-Droid](https://f-droid.org/app/free.rm.skytube.oss)]**</sup>
-* [**Twire**](https://github.com/twireapp/Twire) <sup>**[[F-Droid](https://f-droid.org/app/com.perflyst.twire)]**</sup>
-* [**Xtra**](https://github.com/crackededed/Xtra) <sup>**[[F-Droid](https://www.f-droid.org/app/com.github.andreyasadchy.xtra)]**</sup>
-
-### • Messaging
-
-* [**blabber.im**](https://codeberg.org/kriztan/blabber.im) <sup>**[[F-Droid](https://f-droid.org/app/de.pixart.messenger)]**</sup>
-* [**Briar**](https://code.briarproject.org/briar/briar) <sup>**[[F-Droid](https://f-droid.org/app/org.briarproject.briar.android)]**</sup>
-* [**Cheogram**](https://git.singpolyma.net/cheogram-android) <sup>**[[F-Droid](https://www.f-droid.org/app/com.cheogram.android)]**</sup>
-* [**Conversations**](https://github.com/siacs/Conversations) <sup>**[[F-Droid](https://f-droid.org/app/eu.siacs.conversations)]**</sup>
-* [**Element**](https://github.com/vector-im/element-android) <sup>**[[F-Droid](https://f-droid.org/app/im.vector.app)]**</sup>
-    * [**SchildiChat**](https://github.com/SchildiChat/SchildiChat-android) <sup>**[[F-Droid](https://f-droid.org/app/de.spiritcroc.riotx)]**</sup>
-* [**FluffyChat**](https://github.com/krille-chan/fluffychat) <sup>**[[F-Droid](https://f-droid.org/app/chat.fluffy.fluffychat)]**</sup>
-* [**Jami**](https://git.jami.net/savoirfairelinux/jami-client-android) <sup>**[[F-Droid](https://f-droid.org/app/cx.ring)]**</sup>
-* [**Jitsi Meet**](https://github.com/jitsi/jitsi-meet) <sup>**[[F-Droid](https://f-droid.org/app/org.jitsi.meet)]**</sup>
-* [**Kontalk**](https://github.com/kontalk/androidclient) <sup>**[[F-Droid](https://f-droid.org/app/org.kontalk)]**</sup>
-* [**Manyverse**](https://gitlab.com/staltz/manyverse) <sup>**[[F-Droid](https://f-droid.org/app/se.manyver)]**</sup>
-* [**Mastodon**](https://github.com/mastodon/mastodon-android) <sup>**[[F-Droid](https://f-droid.org/app/org.joinmastodon.android)]**</sup>
-    * [**Megalodon**](https://github.com/sk22/megalodon)
-    * [**Moshidon**](https://github.com/LucasGGamerM/moshidon) <sup>**[[F-Droid](https://f-droid.org/app/org.joinmastodon.android.moshinda)]**</sup>
-* [**Meshenger**](https://github.com/meshenger-app/meshenger-android) <sup>**[[F-Droid](https://f-droid.org/app/d.d.meshenger)]**</sup>
-* [**Molly**](https://github.com/mollyim/mollyim-android)
-* [**Mumla**](https://gitlab.com/quite/mumla) <sup>**[[F-Droid](https://www.f-droid.org/app/se.lublin.mumla)]**</sup>
-* [**Session F-Droid**](https://github.com/oxen-io/session-android) <sup>**[[F-Droid](https://www.f-droid.org/app/network.loki.messenger.fdroid)]**</sup>
-* [**Signal-Foss**](https://github.com/tw-hx/Signal-Android)
-* [**Silence**](https://github.com/SilenceIM/Silence) <sup>**[[F-Droid](https://f-droid.org/app/org.smssecure.smssecure)]**</sup>
-* [**SimpleX Chat**](https://github.com/simplex-chat/simplex-chat) <sup>**[[F-Droid](https://www.f-droid.org/app/chat.simplex.app)]**</sup>
-* [**Telegram-FOSS**](https://github.com/Telegram-FOSS-Team/Telegram-FOSS) <sup>**[[F-Droid](https://f-droid.org/app/org.telegram.messenger)]**</sup>
-    * [**Forkgram**](https://github.com/Forkgram/TelegramAndroid) <sup>**[[F-Droid](https://f-droid.org/app/org.forkgram.messenger)]**</sup>
-    * [**Nekogram X**](https://github.com/NekoX-Dev/NekoX) <sup>**[[F-Droid](https://f-droid.org/app/nekox.messenger)]**</sup>
-    * [**Telegram Monet**](https://github.com/mi-g-alex/Telegram-Monet)
-* [**Threema Libre**](https://github.com/threema-ch/threema-android) <sup>**[[F-Droid](https://f-droid.org/app/ch.threema.app.libre)]**</sup>
-* [**Wire**](https://github.com/wireapp/wire-android) <sup>**[[F-Droid](https://f-droid.org/app/com.wire)]**</sup>
-
+  
 ### • Miscellaneous
 
 * [**AirGuard - AirTag tracking protection**](https://github.com/seemoo-lab/AirGuard) <sup>**[[F-Droid](https://f-droid.org/app/de.seemoo.at_tracking_detection)]**</sup>
