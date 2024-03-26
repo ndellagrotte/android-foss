@@ -111,10 +111,10 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 ### • Media Frontends
 
-general media frontend
 * [**Jellyfin**](https://github.com/jellyfin/jellyfin-android) <sup>**[[F-Droid](https://f-droid.org/app/org.jellyfin.mobile)]**</sup>
 
-youtube 
+### • Youtube Frontends
+
 * [**⚠️🐐 LibreTube**](https://github.com/libre-tube/LibreTube) <sup>**[[F-Droid](https://f-droid.org/app/com.github.libretube)]**</sup>
 * [**⚠️Clipious**](https://github.com/lamarios/clipious) <sup>**[[F-Droid](https://f-droid.org/app/com.github.lamarios.clipious)]**</sup>
 * [**⚠️NewPipe**](https://github.com/TeamNewPipe/NewPipe) <sup>**[[F-Droid](https://f-droid.org/app/org.schabi.newpipe)]**</sup>
@@ -122,7 +122,8 @@ youtube
     * [**⚠️ Tubular**](https://github.com/polymorphicshade/Tubular)
 * [**⚠️ SkyTube**](https://github.com/ram-on/SkyTube) <sup>**[[F-Droid](https://f-droid.org/app/free.rm.skytube.oss)]**</sup>
 
-twitch
+### • Twitch Frontends
+
 * [**⚠️🐐 Twire**](https://github.com/twireapp/Twire) <sup>**[[F-Droid](https://f-droid.org/app/com.perflyst.twire)]**</sup>
 * [**⚠️ Xtra**](https://github.com/crackededed/Xtra) <sup>**[[F-Droid](https://www.f-droid.org/app/com.github.andreyasadchy.xtra)]**</sup>
 
