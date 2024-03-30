@@ -6,6 +6,7 @@
 A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** – saving *Freedom* and *Privacy*.
 
 ⚠️ - Depends on a nonfree service
+
 🐐 - goat
 
 ### • ⚠️ Youtube Frontends
