@@ -101,6 +101,11 @@ Note: AOSP Phone is the only FOSS dialer with a visual voicemail implementation,
 * [**Feeder**](https://gitlab.com/spacecowboy/Feeder) <sup>**[[F-Droid](https://f-droid.org/app/com.nononsenseapps.feeder)]**</sup>
 * [**Nunti**](https://gitlab.com/ondrejfoltyn/nunti) <sup>**[[F-Droid](https://f-droid.org/app/com.nunti)]**</sup>
 
+### • Sandboxing
+
+* [**🐐 Insular**](https://gitlab.com/secure-system/Insular) <sup>**[[F-Droid](https://f-droid.org/app/com.oasisfeng.island.fdroid)]**</sup>
+* [**Shelter**](https://cgit.typeblog.net/Shelter) <sup>**[[F-Droid](https://f-droid.org/app/net.typeblog.shelter)]**</sup>
+
 ### • Battery
 
 * [**🐐 SaverTuner**](https://codeberg.org/s1m/savertuner) <sup>**[[F-Droid](https://f-droid.org/app/s1m.savertuner)]**</sup>
@@ -407,11 +412,6 @@ deezer frontend
 
 * [**Godot Editor**](https://github.com/godotengine/godot) <sup>**[[F-Droid](https://f-droid.org/app/org.godotengine.editor.v3)]**</sup>
 * [**PCAPdroid**](https://github.com/emanuele-f/PCAPdroid) <sup>**[[F-Droid](https://f-droid.org/app/com.emanuelef.remote_capture)]**</sup>
-
-### • Sandboxing
-
-* [**Insular**](https://gitlab.com/secure-system/Insular) <sup>**[[F-Droid](https://f-droid.org/app/com.oasisfeng.island.fdroid)]**</sup>
-* [**Shelter**](https://cgit.typeblog.net/Shelter) <sup>**[[F-Droid](https://f-droid.org/app/net.typeblog.shelter)]**</sup>
 
 ### • Science & Education
 
