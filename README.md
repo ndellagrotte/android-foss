@@ -40,6 +40,23 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Simple Keyboard**](https://github.com/rkkr/simple-keyboard) <sup>**[[F-Droid](https://f-droid.org/app/rkr.simplekeyboard.inputmethod)]**</sup>
 * [**Thumb-Key**](https://github.com/dessalines/thumb-key) <sup>**[[F-Droid](https://www.f-droid.org/app/com.dessalines.thumbkey)]**</sup>
 
+### • Password & Authentication
+
+otp manager
+* [**🐐 Aegis**](https://getaegis.app/) <sup>**[[F-Droid](https://f-droid.org/app/com.beemdevelopment.aegis)]**</sup>
+* [**Mauth**](https://github.com/X1nto/Mauth) <sup>**[[F-Droid](https://f-droid.org/app/com.xinto.mauth)]**</sup>
+
+password manager
+* [**AuthPass**](https://github.com/authpass/authpass) <sup>**[[F-Droid](https://f-droid.org/app/design.codeux.authpass.fdroid)]**</sup>
+* [**🐐 Bitwarden**](https://github.com/bitwarden/mobile)
+* [**KeePassDX**](https://github.com/Kunzisoft/KeePassDX) <sup>**[[F-Droid](https://f-droid.org/app/com.kunzisoft.keepass.libre)]**</sup>
+
+pgp key manager?
+* [**OpenKeychain**](https://github.com/open-keychain/open-keychain) <sup>**[[F-Droid](https://www.f-droid.org/app/org.sufficientlysecure.keychain)]**</sup>
+
+idk
+* [**Keyoxide**](https://codeberg.org/keyoxide/keyoxide-flutter) <sup>**[[F-Droid](https://f-droid.org/app/org.keyoxide.keyoxide)]**</sup>
+
 ### • Clock & Time
 
 * [**🐐 Clock You**](https://github.com/you-apps/ClockYou) <sup>**[[F-Droid](https://f-droid.org/app/com.bnyro.clock)]**</sup>
@@ -58,7 +75,6 @@ Note: AOSP Phone is the only FOSS dialer with a visual voicemail implementation,
 * [**Amaze**](https://github.com/TeamAmaze/AmazeFileManager) <sup>**[[F-Droid](https://f-droid.org/app/com.amaze.filemanager)]**</sup>
 * [**Fossify File Manager**](https://github.com/FossifyOrg/File-Manager) <sup>**[[F-Droid](https://www.f-droid.org/app/org.fossify.filemanager)]**</sup>
 * [**🐐 Material Files**](https://github.com/zhanghai/MaterialFiles) <sup>**[[F-Droid](https://f-droid.org/app/me.zhanghai.android.files)]**</sup>
-
 
 ### • File Sharing
 
@@ -149,9 +165,9 @@ xmpp
 * [**Conversations**](https://github.com/siacs/Conversations) <sup>**[[F-Droid](https://f-droid.org/app/eu.siacs.conversations)]**</sup>
 
 matrix
+* [**FluffyChat**](https://github.com/krille-chan/fluffychat) <sup>**[[F-Droid](https://f-droid.org/app/chat.fluffy.fluffychat)]**</sup>
 * [**⚠️ Element**](https://github.com/vector-im/element-android) <sup>**[[F-Droid](https://f-droid.org/app/im.vector.app)]**</sup>
     * [**🐐 SchildiChat**](https://github.com/SchildiChat/SchildiChat-android) <sup>**[[F-Droid](https://f-droid.org/app/de.spiritcroc.riotx)]**</sup>
-* [**FluffyChat**](https://github.com/krille-chan/fluffychat) <sup>**[[F-Droid](https://f-droid.org/app/chat.fluffy.fluffychat)]**</sup>
 
 mastodon
 * [**⚠️ Mastodon**](https://github.com/mastodon/mastodon-android) <sup>**[[F-Droid](https://f-droid.org/app/org.joinmastodon.android)]**</sup>
@@ -159,8 +175,8 @@ mastodon
     * [**Moshidon**](https://github.com/LucasGGamerM/moshidon) <sup>**[[F-Droid](https://f-droid.org/app/org.joinmastodon.android.moshinda)]**</sup>
 
 signal
-* [**Molly-FOSS**](https://github.com/mollyim/mollyim-android) <sup>**[[Add F-Droid Repo](https://molly.im/download/fdroid/)]**</sup>
 * [**Signal-Foss**](https://github.com/tw-hx/Signal-Android)
+* [**Molly-FOSS**](https://github.com/mollyim/mollyim-android) <sup>**[[Add F-Droid Repo](https://molly.im/download/fdroid/)]**</sup>
 * [**⚠️ Molly**](https://github.com/mollyim/mollyim-android) <sup>**[[Add F-Droid Repo](https://molly.im/download/fdroid/)]**</sup>
 
 mumble
@@ -188,22 +204,27 @@ local player
 * [**Phonograph Plus**](https://github.com/chr56/Phonograph_Plus) <sup>**[[F-Droid](https://f-droid.org/app/player.phonograph.plus)]**</sup>
 * [**Gramophone**](https://github.com/AkaneTan/Gramophone) <sup>**[[F-Droid](https://f-droid.org/app/org.akanework.gramophone)]**</sup>
 * [**Fossify Music Player**](https://github.com/FossifyOrg/Music-Player) <sup>**[[F-Droid](https://f-droid.org/app/org.fossify.musicplayer)]**</sup>
-* [**Metro**](https://github.com/MuntashirAkon/Metro) <sup>**[[F-Droid](https://f-droid.org/app/io.github.muntashirakon.Music)]**</sup>
 * [**Music Player GO**](https://github.com/enricocid/Music-Player-GO) <sup>**[[F-Droid](https://f-droid.org/app/com.iven.musicplayergo)]**</sup>
 * [**Vanilla Music**](https://vanilla-music.github.io/) <sup>**[[F-Droid](https://f-droid.org/app/ch.blinkenlights.android.vanilla)]**</sup>
     * [**Cover Fetcher**](https://vanilla-music.github.io/) <sup>**[[F-Droid](https://f-droid.org/app/com.kanedias.vanilla.coverfetch)]**</sup>
     * [**Headphone Detector**](https://vanilla-music.github.io/) <sup>**[[F-Droid](https://f-droid.org/app/ch.blinkenlights.android.vanillaplug)]**</sup>
     * [**Lyric Search**](https://vanilla-music.github.io/) <sup>**[[F-Droid](https://f-droid.org/app/com.kanedias.vanilla.lyrics)]**</sup>
     * [**Tag Editor**](https://vanilla-music.github.io/) <sup>**[[F-Droid](https://f-droid.org/app/com.kanedias.vanilla.audiotag)]**</sup>
+https://github.com/mataku/SunsetScrob 
 
-youtube music frontend
-* [**⚠️ Harmony Music**](https://github.com/anandnet/Harmony-Music) <sup>**[[F-Droid](https://f-droid.org/app/com.anandnet.harmonymusic)]**</sup>
-* [**⚠️ InnerTune**](https://github.com/z-huang/InnerTune) <sup>**[[F-Droid](https://f-droid.org/app/com.zionhuang.music)]**</sup>
-* [**⚠️ Musify**](https://github.com/gokadzev/Musify) <sup>**[[F-Droid](https://f-droid.org/app/com.gokadzev.musify.fdroid)]**</sup>
-* [**⚠️ SimpMusic**](https://github.com/maxrave-dev/SimpMusic) <sup>**[[F-Droid](https://f-droid.org/app/com.maxrave.simpmusic)]**</sup>
-* [**⚠️ SongTube**](https://github.com/SongTube/SongTube-App)
-* [**⚠️ Spotube**](https://github.com/KRTirtho/spotube) <sup>**[[F-Droid](https://f-droid.org/app/oss.krtirtho.spotube)]**</sup>
-* [**⚠️ Vibe You**](https://github.com/you-apps/VibeYou) <sup>**[[F-Droid](https://f-droid.org/app/app.suhasdissa.vibeyou)]**</sup>
+⚠️ last.fm / libre.fm frontend
+* [**🐐 Pano Scrobbler**](https://github.com/kawaiiDango/pano-scrobbler) <sup>**[[Add F-Droid Repo](https://kawaiidango.github.io/pano-scrobbler/fdroid/repo/ 
+)]**</sup>
+* [**SunsetScrob**](https://vanilla-music.github.io/) <sup>**[[F-Droid](https://f-droid.org/app/ch.blinkenlights.android.vanilla)]**</sup>
+
+⚠️ youtube music frontend
+* [**Harmony Music**](https://github.com/anandnet/Harmony-Music) <sup>**[[F-Droid](https://f-droid.org/app/com.anandnet.harmonymusic)]**</sup>
+* [**InnerTune**](https://github.com/z-huang/InnerTune) <sup>**[[F-Droid](https://f-droid.org/app/com.zionhuang.music)]**</sup>
+* [**Musify**](https://github.com/gokadzev/Musify) <sup>**[[F-Droid](https://f-droid.org/app/com.gokadzev.musify.fdroid)]**</sup>
+* [**SimpMusic**](https://github.com/maxrave-dev/SimpMusic) <sup>**[[F-Droid](https://f-droid.org/app/com.maxrave.simpmusic)]**</sup>
+* [**SongTube**](https://github.com/SongTube/SongTube-App)
+* [**Spotube**](https://github.com/KRTirtho/spotube) <sup>**[[F-Droid](https://f-droid.org/app/oss.krtirtho.spotube)]**</sup>
+* [**Vibe You**](https://github.com/you-apps/VibeYou) <sup>**[[F-Droid](https://f-droid.org/app/app.suhasdissa.vibeyou)]**</sup>
 
 radio
 * [**RadioDroid**](https://github.com/segler-alex/RadioDroid) <sup>**[[F-Droid](https://f-droid.org/app/net.programmierecke.radiodroid2)]**</sup>
@@ -211,7 +232,6 @@ radio
 
 deezer frontend
 * [**⚠️ Vinyl Music Player**](https://github.com/AdrienPoupa/VinylMusicPlayer) <sup>**[[F-Droid](https://f-droid.org/app/com.poupa.vinylmusicplayer)]**</sup>
-
 
 ## Table of Contents
 
@@ -372,20 +392,7 @@ deezer frontend
 * [**Krita**](https://invent.kde.org/graphics/krita) <sup>**[[F-Droid](https://f-droid.org/app/org.krita)]**</sup>
 * [**Pocket Paint**](https://github.com/Catrobat/Paintroid) <sup>**[[F-Droid](https://www.f-droid.org/app/org.catrobat.paintroid)]**</sup>
 * [**Tux Paint**](https://github.com/tux4kids/Tuxpaint-Android) <sup>**[[F-Droid](https://www.f-droid.org/app/org.tuxpaint)]**</sup>
-
-### • Password & Authentication
-
-* [**Aegis**](https://getaegis.app/) <sup>**[[F-Droid](https://f-droid.org/app/com.beemdevelopment.aegis)]**</sup>
-* [**andOTP**](https://github.com/andOTP/andOTP) <sup>**[[F-Droid](https://f-droid.org/app/org.shadowice.flocke.andotp)]**</sup>
-* [**AuthenticatorPro**](https://github.com/jamie-mh/AuthenticatorPro)
-* [**AuthPass**](https://github.com/authpass/authpass) <sup>**[[F-Droid](https://f-droid.org/app/design.codeux.authpass.fdroid)]**</sup>
-* [**Bitwarden**](https://github.com/bitwarden/mobile)
-* [**FreeOTP+**](https://github.com/helloworld1/FreeOTPPlus) <sup>**[[F-Droid](https://f-droid.org/app/org.liberty.android.freeotpplus)]**</sup>
-* [**KeePassDX**](https://github.com/Kunzisoft/KeePassDX) <sup>**[[F-Droid](https://f-droid.org/app/com.kunzisoft.keepass.libre)]**</sup>
-* [**Keyoxide**](https://codeberg.org/keyoxide/keyoxide-flutter) <sup>**[[F-Droid](https://f-droid.org/app/org.keyoxide.keyoxide)]**</sup>
-* [**Mauth**](https://github.com/X1nto/Mauth) <sup>**[[F-Droid](https://f-droid.org/app/com.xinto.mauth)]**</sup>
-* [**OpenKeychain**](https://github.com/open-keychain/open-keychain) <sup>**[[F-Droid](https://www.f-droid.org/app/org.sufficientlysecure.keychain)]**</sup>
-* [**Vault**](https://github.com/arsvechkarev/Vault) <sup>**[[F-Droid](https://f-droid.org/app/com.arsvechkarev.vault)]**</sup>
+* [**FluffyChat**](https://github.com/krille-chan/fluffychat) <sup>**[[F-Droid](https://f-droid.org/app/chat.fluffy.fluffychat)]**</sup>
 
 ### • Podcast & Audio Book Player
 
