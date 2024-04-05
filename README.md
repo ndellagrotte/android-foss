@@ -11,8 +11,8 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 ### • ⚠️ Youtube Frontends
 
-* [**🐐 LibreTube**](https://github.com/libre-tube/LibreTube) <sup>**[[F-Droid](https://f-droid.org/app/com.github.libretube)]**</sup>
-* [**Clipious**](https://github.com/lamarios/clipious) <sup>**[[F-Droid](https://f-droid.org/app/com.github.lamarios.clipious)]**</sup>
+* [**🐐 Clipious**](https://github.com/lamarios/clipious) <sup>**[[F-Droid](https://f-droid.org/app/com.github.lamarios.clipious)]**</sup>
+* [**LibreTube**](https://github.com/libre-tube/LibreTube) <sup>**[[F-Droid](https://f-droid.org/app/com.github.libretube)]**</sup>
 * [**NewPipe**](https://github.com/TeamNewPipe/NewPipe) <sup>**[[F-Droid](https://f-droid.org/app/org.schabi.newpipe)]**</sup>
     * [**PipePipe**](https://codeberg.org/NullPointerException/PipePipe) <sup>**[[F-Droid](https://www.f-droid.org/app/InfinityLoop1309.NewPipeEnhanced)]**</sup>
     * [**Tubular**](https://github.com/polymorphicshade/Tubular)
