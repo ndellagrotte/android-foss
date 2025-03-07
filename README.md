@@ -26,7 +26,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 ### • Browser
 * [**Fennec**](https://hg.mozilla.org/releases/mozilla-esr68) <sup>**[[F-Droid](https://f-droid.org/app/org.mozilla.fennec_fdroid)]**</sup>
-    * [**🐐 Mull**](https://gitlab.com/divested-mobile/mull-fenix) <sup>**[[F-Droid](https://www.f-droid.org/app/us.spotco.fennec_dos)]**</sup>
+    * [**🐐 IronFox**](https://gitlab.com/ironfox-oss/IronFox) <sup>**[[Accrescent](https://accrescent.app/app/org.ironfoxoss.ironfox)]**</sup>
 * [**Cromite**](https://github.com/uazo/cromite)
 * [**DuckDuckGo Privacy Browser**](https://github.com/duckduckgo/Android) <sup>**[[F-Droid](https://f-droid.org/app/com.duckduckgo.mobile.android)]**</sup>
 * [**Tor Browser**](https://gitlab.torproject.org/tpo/applications/tor-browser)
@@ -40,29 +40,30 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 * [**Simple Keyboard**](https://github.com/rkkr/simple-keyboard) <sup>**[[F-Droid](https://f-droid.org/app/rkr.simplekeyboard.inputmethod)]**</sup>
 * [**Thumb-Key**](https://github.com/dessalines/thumb-key) <sup>**[[F-Droid](https://www.f-droid.org/app/com.dessalines.thumbkey)]**</sup>
 
-### • Password & Authentication
+### • OTP Manager
 
-otp manager
 * [**🐐 Aegis**](https://getaegis.app/) <sup>**[[F-Droid](https://f-droid.org/app/com.beemdevelopment.aegis)]**</sup>
+* [**🐐 Ente Auth**](https://ente.io/auth/) <sup>**[[F-Droid]([https://f-droid.org/en/packages/io.ente.auth/))]**</sup>
 * [**Mauth**](https://github.com/X1nto/Mauth) <sup>**[[F-Droid](https://f-droid.org/app/com.xinto.mauth)]**</sup>
 
-password manager
-* [**AuthPass**](https://github.com/authpass/authpass) <sup>**[[F-Droid](https://f-droid.org/app/design.codeux.authpass.fdroid)]**</sup>
+Note: Ente has clients for web, mobile, and desktop.
+
+### • Password Manager
 * [**🐐 Bitwarden**](https://github.com/bitwarden/mobile)
+* [**AuthPass**](https://github.com/authpass/authpass) <sup>**[[F-Droid](https://f-droid.org/app/design.codeux.authpass.fdroid)]**</sup>
 * [**KeePassDX**](https://github.com/Kunzisoft/KeePassDX) <sup>**[[F-Droid](https://f-droid.org/app/com.kunzisoft.keepass.libre)]**</sup>
 
-pgp key manager?
+### • PGP Key Manager
 * [**OpenKeychain**](https://github.com/open-keychain/open-keychain) <sup>**[[F-Droid](https://www.f-droid.org/app/org.sufficientlysecure.keychain)]**</sup>
 
 idk
 * [**Keyoxide**](https://codeberg.org/keyoxide/keyoxide-flutter) <sup>**[[F-Droid](https://f-droid.org/app/org.keyoxide.keyoxide)]**</sup>
-https://f-droid.org/en/packages/org.fossify.clock/
 
 ### • Clock & Time
-
-* [**🐐 Fossify Clock**](https://github.com/FossifyOrg/Clock) <sup>**[[F-Droid](https://f-droid.org/app/com.bnyro.clock)]**</sup>
-* [**🐐 Clock You**](https://github.com/you-apps/ClockYou) <sup>**[[F-Droid](https://f-droid.org/app/com.bnyro.clock)]**</sup>
-* [**Simple Alarm Clock**](https://github.com/yuriykulikov/AlarmClock) <sup>**[[F-Droid](https://f-droid.org/app/com.better.alarm)]**</sup>
+https://f-droid.org/en/packages/com.best.deskclock/
+* [**🐐 Clock**](https://github.com/BlackyHawky/Clock) <sup>**[[F-Droid](https://f-droid.org/en/packages/com.best.deskclock/)]**</sup>
+* [**Fossify Clock**](https://github.com/FossifyOrg/Clock) <sup>**[[F-Droid](https://f-droid.org/app/com.bnyro.clock)]**</sup>
+* [**Clock You**](https://github.com/you-apps/ClockYou) <sup>**[[F-Droid](https://f-droid.org/app/com.bnyro.clock)]**</sup>
 * [**Smart EggTimer**](https://github.com/woheller69/eggtimer) <sup>**[[F-Droid](https://f-droid.org/app/org.woheller69.eggtimer)]**</sup>
 
 ### • Dialer
@@ -73,13 +74,11 @@ https://f-droid.org/en/packages/org.fossify.clock/
 Note: AOSP Phone is the only FOSS dialer with a visual voicemail implementation, but Fossify Phone is working on this maybe? [Issue 48](https://github.com/FossifyOrg/Phone/issues/48)
 
 ### • File Manager
-
 * [**🐐 Material Files**](https://github.com/zhanghai/MaterialFiles) <sup>**[[F-Droid](https://f-droid.org/app/me.zhanghai.android.files)]**</sup>
 * [**🐐 Fossify File Manager**](https://github.com/FossifyOrg/File-Manager) <sup>**[[F-Droid](https://www.f-droid.org/app/org.fossify.filemanager)]**</sup>
 * [**Amaze**](https://github.com/TeamAmaze/AmazeFileManager) <sup>**[[F-Droid](https://f-droid.org/app/com.amaze.filemanager)]**</sup>
 
 ### • File Sharing
-
 * [**🐐 KDE Connect**](https://invent.kde.org/network/kdeconnect-android) <sup>**[[F-Droid](https://f-droid.org/app/org.kde.kdeconnect_tp)]**</sup>
 * [**🐐 Warpinator**](https://github.com/slowscript/warpinator-android) <sup>**[[F-Droid](https://f-droid.org/app/slowscript.warpinator)]**</sup>
 * [**Device Connect**](https://github.com/cyanomiko/dcnnt-android) <sup>**[[F-Droid](https://www.f-droid.org/app/net.dcnnt)]**</sup>
@@ -90,48 +89,40 @@ Note: AOSP Phone is the only FOSS dialer with a visual voicemail implementation,
 * [**⚠️ Filester**](https://github.com/rouzbehzarei/filester) <sup>**[[F-Droid](https://f-droid.org/app/com.roozbehzarei.filester)]**</sup>
 
 ### • Image Viewer & Gallery
-
 * [**🐐 Gallery**](https://github.com/IacobIonut01/Gallery) <sup>**[[F-Droid](https://f-droid.org/app/com.dot.gallery)]**</sup>
 * [**🐐 Fossify Gallery**](https://github.com/FossifyOrg/Gallery) <sup>**[[F-Droid](https://f-droid.org/app/org.fossify.gallery)]**</sup>
 * [**Aves**](https://github.com/deckerst/aves) <sup>**[[F-Droid](https://f-droid.org/app/deckers.thibault.aves.libre)]**</sup>
-* [**Stingle Photos**](https://github.com/stingle/stingle-photos-android) <sup>**[[F-Droid](https://f-droid.org/app/org.stingle.photos)]**</sup>
 * [**⚠️ Ente**](https://github.com/ente-io/ente) <sup>**[[F-Droid](https://f-droid.org/app/io.ente.photos.fdroid)]**</sup>
 
 ### • RSS Readers
-
 * [**🐐 ReadYou**](https://github.com/Ashinch/ReadYou) <sup>**[[F-Droid](https://f-droid.org/app/me.ash.reader)]**</sup>
 * [**Feeder**](https://gitlab.com/spacecowboy/Feeder) <sup>**[[F-Droid](https://f-droid.org/app/com.nononsenseapps.feeder)]**</sup>
 * [**Nunti**](https://gitlab.com/ondrejfoltyn/nunti) <sup>**[[F-Droid](https://f-droid.org/app/com.nunti)]**</sup>
 
 ### • Sandboxing
-
 * [**🐐 Insular**](https://gitlab.com/secure-system/Insular) <sup>**[[F-Droid](https://f-droid.org/app/com.oasisfeng.island.fdroid)]**</sup>
-* [**Shelter**](https://cgit.typeblog.net/Shelter) <sup>**[[F-Droid](https://f-droid.org/app/net.typeblog.shelter)]**</sup>
 
 ### • Battery
-
 * [**🐐 SaverTuner**](https://codeberg.org/s1m/savertuner) <sup>**[[F-Droid](https://f-droid.org/app/s1m.savertuner)]**</sup>
 
 ### • Contacts
-
 * [**🐐 Fossify Contacts**](https://github.com/FossifyOrg/Contacts) <sup>**[[F-Droid](https://f-droid.org/app/org.fossify.contacts)]**</sup>
 
 ### • Weather
-
+* [**🐐 Breezy Weather**](https://github.com/breezy-weather/breezy-weather/) <sup>**[[F-Droid](https://f-droid.org/en/packages/org.breezyweather)]**</sup>
 * [**Clima**](https://codeberg.org/Lacerte/clima) <sup>**[[F-Droid](https://www.f-droid.org/app/co.prestosole.clima)]**</sup>
 * [**RadarWeather**](https://github.com/woheller69/weather) <sup>**[[F-Droid](https://f-droid.org/app/org.woheller69.weather)]**</sup>
 
 ### • Lemmy Clients
-
 * [**🐐 Voyager**](https://github.com/aeharding/voyager) <sup>**[[F-Droid](https://f-droid.org/app/app.vger.voyager)]**<sup>
 * [**Jerboa**](https://github.com/dessalines/jerboa) <sup>**[[F-Droid](https://www.f-droid.org/app/com.jerboa)]**</sup>
 * [**Eternity**](https://codeberg.org/Bazsalanszky/Eternity) <sup>**[[F-Droid](https://f-droid.org/app/eu.toldi.infinityforlemmy)]**</sup>
 
 ### • Email Clients
 
+* [**🐐 K-9 Mail**](https://github.com/thundernest/k-9) <sup>**[[F-Droid](https://f-droid.org/app/com.fsck.k9)]**</sup>
 * [**🐐 Ltt.rs**](https://codeberg.org/iNPUTmice/lttrs-android) <sup>**[[F-Droid](https://f-droid.org/app/rs.ltt.android)]**</sup>
 * [**FairEmail**](https://github.com/M66B/FairEmail) <sup>**[[F-Droid](https://f-droid.org/app/eu.faircode.email)]**</sup>
-* [**K-9 Mail**](https://github.com/thundernest/k-9) <sup>**[[F-Droid](https://f-droid.org/app/com.fsck.k9)]**</sup>
 
 ### • Calendar
 
